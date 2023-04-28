@@ -1,4 +1,6 @@
 
+![Imagem 1](imgrdm/imgrdm1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ![Imagem 2](imgrdm/imgrdm2.png) 
+
 # pt-br - Calculadora IMC App
 
   
